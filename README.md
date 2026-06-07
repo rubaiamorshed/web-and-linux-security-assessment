@@ -70,7 +70,7 @@ The assessment involved reconnaissance, service enumeration, web content discove
 
 ## Key Findings
 
-### Finding 1: Information Disclosure via Exposed Development Directory
+### Finding 1: Information Disclosure via Exposed Hidden Directory
 
 **Risk:** Medium
 
